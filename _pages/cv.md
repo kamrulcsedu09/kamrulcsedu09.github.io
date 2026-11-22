@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/Kamrul_Hasan_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+<a href="{{ base_path }}/files/Curriculum_Vitae_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
 
 Current Positions
 ======
