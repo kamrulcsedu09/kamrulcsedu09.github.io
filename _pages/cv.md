@@ -40,10 +40,9 @@ International Standardisation Contributions (ITU-T)
 ======
 1. K. Hasan and S. H. Jeong, Output – draft new Recommendation ITU-T H.DLT-FMD: *Framework for fast message delivery for DLT-based services*, Geneva, Switzerland, 2025.
 2. K. Hasan, S. H. Jeong and H. Song, Consent – draft new Recommendation ITU-T H.643.2: *Requirements and architecture for ICN-based mobile multimedia services*, Geneva, Switzerland, 2025.
-3. K. Hasan et al., Consent – draft new Recommendation ITU-T F.751.28: *Framework for fast message delivery for DLT-based services*, Geneva, Switzerland, 2025.
-4. K. Hasan and S. H. Jeong, F.ICNMMS: *Requirements and architecture for ICN-based mobile multimedia services* – Output draft, Rennes, France, 2024.
-5. K. Hasan and S. H. Jeong, H.DLT-FMD: *Framework for fast message delivery for DLT-based services* – Output draft, Rennes, France, 2024.
-6. K. Hasan and S. H. Jeong, H.DLT-FMD: *Framework for fast message delivery for DLT-based services* – Output draft, Geneva, Switzerland, 2023.
+3. K. Hasan and S. H. Jeong, F.ICNMMS: *Requirements and architecture for ICN-based mobile multimedia services* – Output draft, Rennes, France, 2024.
+4. K. Hasan and S. H. Jeong, H.DLT-FMD: *Framework for fast message delivery for DLT-based services* – Output draft, Rennes, France, 2024.
+5. K. Hasan and S. H. Jeong, H.DLT-FMD: *Framework for fast message delivery for DLT-based services* – Output draft, Geneva, Switzerland, 2023.
 
 Publications
 ======
