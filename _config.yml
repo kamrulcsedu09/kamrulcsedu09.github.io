@@ -23,7 +23,7 @@ repository               : "kamrulcsedu09/kamrulcsedu09.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/359924252?v=4&s=460"
   name             : "Dr. Kamrul Hasan"
   pronouns         : # example: "she/her"  
   bio              : "Post-Doctoral Research Fellow and Lecturer, AI and Networking Lab, Hankuk University of Foreign Studies"
