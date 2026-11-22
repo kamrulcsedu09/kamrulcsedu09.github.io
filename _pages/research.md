@@ -19,14 +19,6 @@ Sixth-generation networks are expected to embed artificial intelligence througho
 
 AI agents that can perceive, reason and act autonomously are becoming a subject of standardisation. I study how agentic AI is being addressed in the 3rd Generation Partnership Project (3GPP), particularly in SA2 (System Architecture) and SA5 (Management, Orchestration and Charging), and in the O-RAN Alliance. This includes the architectural, management and interoperability implications for future mobile networks.
 
-## International Standardisation Contributions (ITU-T)
-
-I have contributed to the development of draft Recommendations in the ITU Telecommunication Standardization Sector (ITU-T), in collaboration with Prof. Seong Ho Jeong:
-
-- **ITU-T H.DLT-FMD** — Framework for fast message delivery for DLT-based services (output drafts: Geneva, 2023; Rennes, 2024; Geneva, 2025).
-- **ITU-T F.751.28** — Framework for fast message delivery for DLT-based services (consent of draft new Recommendation, Geneva, 2025).
-- **ITU-T H.643.2 (F.ICNMMS)** — Requirements and architecture for ICN-based mobile multimedia services (output draft: Rennes, 2024; consent of draft new Recommendation, Geneva, 2025).
-
 ## 3. Machine Learning for Radio Resource and Mobility Management
 
 Accurate prediction of channel and mobility conditions allows networks to adapt proactively. My work applies supervised learning, deep learning, reinforcement learning and federated learning to channel quality indicator (CQI) prediction, throughput prediction and handover decisions in 5G and beyond-5G networks, including privacy-preserving approaches for multi-access edge computing (MEC).
@@ -56,4 +48,4 @@ Secure and trustworthy data exchange is essential for industrial and vehicular s
 - [On the ICN-IoT with Federated Learning Integration of Communication: Concepts, Security-Privacy Issues, Applications, and Future Perspectives](/publication/2023-on-the-icn-iot-with-federated-learning-integration-of-commun) — *Future Generation Computer Systems*
 - [An Enhanced Security Architecture for Industry 4.0 Applications based on Software-Defined Networking](/publication/2022-an-enhanced-security-architecture-for-industry-4-0-applicati) — ICTC 2022
 
-A complete list is available on the [Publications](/publications/) page.
+A complete list is available on the [Publications](/publications/) page. Contributions to international standards are listed on the [Standardisation](/standardisation/) page.
