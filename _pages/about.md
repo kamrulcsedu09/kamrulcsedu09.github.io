@@ -29,7 +29,7 @@ A complete list of my publications is available on the [Publications](/publicati
 
 Teaching
 ------
-At HUFS, I teach the undergraduate course **Multimedia Communication**. Details are available on the [Teaching](/teaching/) page.
+Since March 2024, I have taught in the Department of Information and Communications Engineering at HUFS. My courses cover computer networks, network security, network simulation and performance evaluation, next-generation and AI-enabled mobile communications, multimedia communication, and algorithm design and analysis. In the current semester (Fall 2026), I teach **Multimedia Communication** and **Algorithm Design and Analysis**. A complete list of courses is available on the [Teaching](/teaching/) page.
 
 Contact
 ------
