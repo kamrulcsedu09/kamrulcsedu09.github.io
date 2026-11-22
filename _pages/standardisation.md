@@ -12,7 +12,6 @@ I contribute to international standardisation in the **ITU Telecommunication Sta
 | Recommendation | Title | Milestones |
 | --- | --- | --- |
 | ITU-T H.DLT-FMD | Framework for fast message delivery for DLT-based services | Output drafts: Geneva, Switzerland (2023); Rennes, France (2024); Geneva, Switzerland (2025) |
-| ITU-T F.751.28 | Framework for fast message delivery for DLT-based services | Consent of draft new Recommendation: Geneva, Switzerland (2025) |
 | ITU-T H.643.2 (F.ICNMMS) | Requirements and architecture for ICN-based mobile multimedia services | Output draft: Rennes, France (2024); consent of draft new Recommendation: Geneva, Switzerland (2025) |
 
 ## Contribution Record
