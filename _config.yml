@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Dr. Kamrul Hasan"
 title_separator          : "-"
 name                     : &name "Dr. Kamrul Hasan"
-description              : &description "Post-Doctoral Research Fellow and Lecturer working on 6G networks, AI-native wireless systems, and agentic-AI standardisation in 3GPP and the O-RAN Alliance."
+description              : &description "Lecturer and Post-Doctoral Research Fellow working on 6G networks, AI-native wireless systems, and agentic-AI standardisation in 3GPP and the O-RAN Alliance."
 url                      : https://kamrulcsedu09.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/359924252?v=4&s=460"
   name             : "Dr. Kamrul Hasan"
   pronouns         : # example: "she/her"  
-  bio              : "Post-Doctoral Research Fellow and Lecturer, AI and Networking Lab, Hankuk University of Foreign Studies"
+  bio              : "Lecturer, Dept. of Information and Communications Engineering, and Post-Doctoral Research Fellow, AI and Networking Lab, Hankuk University of Foreign Studies"
   location         : "Yongin, Republic of Korea"
   employer         : "Hankuk University of Foreign Studies (HUFS)"
   uri              : # URL
