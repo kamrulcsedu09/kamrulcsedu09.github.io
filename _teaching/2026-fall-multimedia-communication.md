@@ -8,7 +8,7 @@ date: 2026-09-01
 location: "Yongin, Republic of Korea"
 ---
 
-**Role:** Lecturer (three credit hours; taught in the original language of instruction)
+**Role:** Lecturer (three credit hours; taught in English)
 
 **Semesters taught:** Fall 2025; Fall 2026 (current)
 
