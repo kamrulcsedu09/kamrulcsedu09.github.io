@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2023-towards-a-blockchain-sdn-based-secure-architecture-for-cloud
 date: 2023-01-01
 venue: 'Digital Communications and Networks 9 (2), 411-421'
-paperurl: ''
-citation: 'A Rahman, MJ Islam, SS Band, G Muhammad, <b>K Hasan</b>, P Tiwari, &quot;Towards a blockchain-SDN-based secure architecture for cloud computing in smart industrial IoT,&quot; <i>Digital Communications and Networks 9 (2), 411-421</i>, 2023.'
+paperurl: 'https://doi.org/10.1016/j.dcan.2022.11.003'
+citation: 'A Rahman, MJ Islam, SS Band, G Muhammad, <b>K Hasan</b>, P Tiwari, &quot;Towards a blockchain-SDN-based secure architecture for cloud computing in smart industrial IoT,&quot; <i>Digital Communications and Networks 9 (2), 411-421</i>, 2023. doi: <a href="https://doi.org/10.1016/j.dcan.2022.11.003">10.1016/j.dcan.2022.11.003</a>'
 ---
