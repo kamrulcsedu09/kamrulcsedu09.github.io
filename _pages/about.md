@@ -9,9 +9,9 @@ redirect_from:
 
 I am a Post-Doctoral Research Fellow in the **AI and Networking Lab** and a Lecturer in the Department of Information and Communications Engineering, **Hankuk University of Foreign Studies (HUFS)**, Yongin, Republic of Korea.
 
-My research lies at the intersection of artificial intelligence and wireless communication networks. My current work concentrates on **AI-native 6G systems** and on the **standardisation of agentic AI and AI agents** in the 3rd Generation Partnership Project (3GPP), with particular attention to the activities of SA2 (System Architecture) and SA5 (Management, Orchestration and Charging), and in the **O-RAN Alliance**.
+My research lies at the intersection of artificial intelligence and wireless communication networks. My current work concentrates on **AI-native 6G systems** and on the **standardisation of agentic AI and AI agents** in the 3rd Generation Partnership Project (3GPP), with particular attention to the activities of SA2 (System Architecture) and SA5 (Management, Orchestration and Charging), and in the **O-RAN Alliance**. I have also contributed to international standardisation in the **ITU Telecommunication Standardization Sector (ITU-T)**, including draft Recommendations on Information-Centric Networking (ICN)-based mobile multimedia services and on fast message delivery for distributed ledger technology (DLT)-based services.
 
-I received my Ph.D. in Information and Communications Engineering from Hankuk University of Foreign Studies in 2022. My doctoral research addressed fast and intelligent content delivery in vehicular networks based on Information-Centric Networking (ICN), including cluster-based core-network mechanisms, hybrid caching strategies, and AI-based mobility and handover prediction.
+I received my Ph.D. (2022) and M.Eng. (2016) in Information and Communications Engineering from Hankuk University of Foreign Studies, and my B.Sc. in Computer Science and Engineering from the University of Dhaka. My full academic record is available on the [CV](/cv/) page. My doctoral research addressed fast and intelligent content delivery in vehicular networks based on Information-Centric Networking (ICN), including cluster-based core-network mechanisms, hybrid caching strategies, and AI-based mobility and handover prediction.
 
 Recent News
 ------
