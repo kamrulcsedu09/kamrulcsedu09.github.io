@@ -8,6 +8,6 @@ date: 2024-03-02
 location: "Yongin, Republic of Korea"
 ---
 
-**Role:** Lecturer (three credit hours; taught in English)
+**Role:** Lecturer (taught in English)
 
 **Semesters taught:** Spring 2024
